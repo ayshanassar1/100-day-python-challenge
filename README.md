@@ -10,6 +10,10 @@ Welcome to my 100 Days of Python journey! 🎯
 | Day | Topic                              |
 |-----|------------------------------------|
 | 01  | Basics Of Python-I                 |
+| 02  | Basics Of Python-II                |
+|     | • else-if                          |
+|     | • for-while loop                   |
+|     | • switch cases                     |
 
 ## 🚀 Highlights
 - Project-based learning
