@@ -2,7 +2,7 @@
 
 Welcome to my 100 Days of Python journey! 🎯
 
-📅 Start Date: May 16, 2025  
+📅 Start Date: May 29, 2025  
 🔁 Goal: Learn Python through daily hands-on practice and build useful mini-projects.
 
 ## ✅ Progress
