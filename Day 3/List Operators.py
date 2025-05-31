@@ -1,7 +1,7 @@
 # Creating a list
 colors = ["red", "green", "blue"]
 print(colors)  
-# Output:['red', 'green', 'blue']
+# Output:['red','green', 'blue']
 
 # Append element
 colors.append("yellow")
