@@ -4,7 +4,7 @@ text = "hello world"
 
 # Converts to uppercase
 print(text.upper())      
-#output: HELLO WORLD
+#output:HELLO WORLD
 
 #Converts to lowercase
 print(text.capitalize())  
