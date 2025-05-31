@@ -14,6 +14,10 @@ Welcome to my 100 Days of Python journey! 🎯
 |     | • else-if                          |
 |     | • for-while loop                   |
 |     | • switch cases                     |
+| 03  | Python Collections                 |
+|     | • List Operations                  |
+|     | • Tuple Operations                 |
+|     | • String Operations                |
 
 ## 🚀 Highlights
 - Project-based learning
