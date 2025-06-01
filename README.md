@@ -18,6 +18,7 @@ Welcome to my 100 Days of Python journey! 🎯
 |     | • List Operations                  |
 |     | • Tuple Operations                 |
 |     | • String Operations                |
+| 04  | Python Functions                   |
 
 ## 🚀 Highlights
 - Project-based learning
