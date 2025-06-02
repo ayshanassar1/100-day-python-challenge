@@ -19,7 +19,7 @@ Welcome to my 100 Days of Python journey! 🎯
 |     | • Tuple Operations                 |
 |     | • String Operations                |
 | 04  | Python Functions                   |
-| 05  | File Handling
+| 05  | File Handlin
 ## 🚀 Highlights
 - Project-based learning
 - Daily documentation
