@@ -15,7 +15,8 @@ print(text.replace("world", "Python"))
 #Output:hello Python
 
 #Splits string into list
-print(text.split())  
+print(text.split())  #split when whitespace occur
+print(text.split(#)) #split when hashtag occur
 #Output:['Hello,', 'Python!']
 
 #Finds the position of a word/letter
