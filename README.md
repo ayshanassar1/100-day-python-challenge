@@ -20,6 +20,7 @@ Welcome to my 100 Days of Python journey! 🎯
 |     | • String Operations                |
 | 04  | Python Functions                   |
 | 05  | File Handling                      |
+| 06  | Exception Handling and Debugging   |
 
 ## 🚀 Highlights
 - Project-based learning
