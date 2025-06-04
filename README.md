@@ -19,6 +19,9 @@ Welcome to my 100 Days of Python journey! 🎯
 |     | • Tuple Operations                 |
 |     | • String Operations                |
 | 04  | Python Functions                   |
+|     | • Built in Functions               |
+|     | •User-defined Functions            |
+|     | •Recursive Function                |
 | 05  | File Handling                      |
 | 06  | Exception Handling and Debugging   |
 
