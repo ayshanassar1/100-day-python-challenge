@@ -32,7 +32,8 @@ Welcome to my 100 Days of Python journey! 🎯
 | 08  | Modules and Packages              |
 |     | • Modules                         |
 |     | • Packages                        |
-
+| 09  | • Python Comprehensions &         |
+|     |   Lambda Functions                |
 
 ## 🚀 Highlights
 - Project-based learning
