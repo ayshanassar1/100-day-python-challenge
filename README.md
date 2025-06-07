@@ -6,7 +6,7 @@ Welcome to my 100 Days of Python journey! 🎯
 🔁 Goal: Learn Python through daily hands-on practice and build useful mini-projects.
 
 ## ✅ Progress
- 
+  
 | Day | Topic                             |
 | --- | --------------------------------- |
 | 01  | Basics Of Python-I                |
