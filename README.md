@@ -34,7 +34,8 @@ Welcome to my 100 Days of Python journey! 🎯
 |     | • Packages                        |
 | 09  | • Python Comprehensions &         |
 |     |   Lambda Functions                |
-
+| 10  | Python Data Structures Deep Dive  |
+|     | • Stack using list                |
 ## 🚀 Highlights
 - Project-based learning
 - Daily documentation
