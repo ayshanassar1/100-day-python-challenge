@@ -36,6 +36,13 @@ Welcome to my 100 Days of Python journey! 🎯
 |     |   Lambda Functions                |
 | 10  | Python Data Structures Deep Dive  |
 |     | • Stack using list                |
+| 11  | Searching & Sorting Algorithms    |
+|     | • Linear Search                   |
+|     | • Binary Search                   |
+|     | • Bubble Sort                     |
+|     | • Selection Sort                  |
+|     | • Insertion Sort                  |
+
 ## 🚀 Highlights
 - Project-based learning
 - Daily documentation
