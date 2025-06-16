@@ -56,6 +56,11 @@ Welcome to my 100 Days of Python journey! 🎯
 |     | • Pattern Printing 4              |
 |     | • Reverse a Number                |
 |     | • Sum of Digits                   |
+| 13  |	Python Mini Projects              |
+|     |• Number Guessing Game             |
+|     |• Basic Calculator                 |
+|     |• Simple To-Do List                |
+|     |• Student Grade Calculator         |
 
 
 ## 🚀 Highlights
